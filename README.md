@@ -1,4 +1,4 @@
-# Income Expense Tracker Using Django
+# Coin Canvas(Income Expense Tracker) Using Django
 
 #### Website Deployed on [Heroku](https://expenseincometrackerdjango.herokuapp.com/)
 
